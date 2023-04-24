@@ -1,4 +1,4 @@
-# Experiment-3---Implementation-of-MLP-with-Backpropagation
+# Ex-03--Implementation-of-MLP-with-Backpropagation
 
 ## AIM:
 To implement a Multilayer Perceptron for Multi classification.
@@ -119,8 +119,8 @@ Normalize our dataset.
 
 ## PROGRAM 
 ```
-NAME : VISHAL GOWTHAMAN K R
-REG NO: 212221230123
+NAME : Kersoan P
+REG NO: 212221230050
 ```
 ```
 import pandas as pd
